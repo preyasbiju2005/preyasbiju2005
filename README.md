@@ -16,7 +16,8 @@ Motivated Computer Science (Data Science) student with a strong foundation in da
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
+![C](https://img.shields.io/badge/C-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-025E8C?style=flat&logo=postgresql&logoColor=white)
 ### Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
